@@ -8,5 +8,5 @@ So, you have the possibility to adapt the script to your demands.
 Don't hesitate to contact me...
 
 ## Difference to the python script
-In contrast to my poython script the R-script gives you a lot of different possibilities to assess your RF model.
+In contrast to my python script the R-script gives you a lot of different possibilities to assess your RF model.
 The possibilities in R are much more comfortable!
